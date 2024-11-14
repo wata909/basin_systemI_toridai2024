@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "code_07FD603",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "code": "07FD603" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 136.71628798, 37.16173865 ], [ 136.71620776, 37.17525544 ], [ 136.738730120000014, 37.17533892 ], [ 136.738806329999989, 37.16182209 ], [ 136.71628798, 37.16173865 ] ] ] } }
+]
+}

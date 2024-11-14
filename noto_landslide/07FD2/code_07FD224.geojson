@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "code_07FD224",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "code": "07FD224" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 136.828398099999987, 37.27024792 ], [ 136.82833761, 37.28376464 ], [ 136.85089256, 37.28382696 ], [ 136.85094902, 37.27031021 ], [ 136.828398099999987, 37.27024792 ] ] ] } }
+]
+}
